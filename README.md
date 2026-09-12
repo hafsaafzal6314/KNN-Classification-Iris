@@ -69,7 +69,7 @@ The following steps were performed:
 
 The following K values were tested:
 
-```text
+
 K = 1, 3, 5, 7, 9, 11
 
 📈 Results
